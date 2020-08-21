@@ -1,1 +1,1 @@
-# Temp OTP geneeator
+# Temp OTP generator
