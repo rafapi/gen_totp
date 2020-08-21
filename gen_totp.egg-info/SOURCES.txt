@@ -1,9 +1,0 @@
-README.rst
-setup.py
-gen_totp/__init__.py
-gen_totp/gen_totp.py
-gen_totp.egg-info/PKG-INFO
-gen_totp.egg-info/SOURCES.txt
-gen_totp.egg-info/dependency_links.txt
-gen_totp.egg-info/entry_points.txt
-gen_totp.egg-info/top_level.txt
