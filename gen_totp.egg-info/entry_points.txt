@@ -1,0 +1,3 @@
+[console_scripts]
+gen_totp = gen_totp.gen_totp:main
+
