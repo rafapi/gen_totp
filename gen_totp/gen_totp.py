@@ -11,7 +11,7 @@ from hmac import compare_digest
 import unicodedata
 
 
-secret = 'DWPFFJ36MKLYK732JFVX6QUDAA4VS6BH'
+secret = '<secret>'
 
 
 class OTP:
