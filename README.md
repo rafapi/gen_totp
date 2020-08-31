@@ -1,1 +1,1 @@
-#### Temp OTP generator
+#### Temporary One Time Password generator
