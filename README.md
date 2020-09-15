@@ -1,1 +1,1 @@
-#### Temporary One-Time Password generator
+#### Temporary One-Time Password Generator
